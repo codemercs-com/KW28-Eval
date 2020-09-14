@@ -21,8 +21,8 @@ KeyWarrior28 supports up to 19 macros in different modes: static, typing, and ce
 
 
 # External links
-**Shoplink** to buy your KW28Eval board (available soon): https://shop.codemercs.com/<br>
-**Product page** for KW28Eval: https://codemercs.com/en/keyboard/8x8-matrix<br>
+**Shoplink** to buy your KW28Eval board: https://shop.codemercs.com/de/keywarrior28-evaluation-board.html<br>
+**Product page** for KW28Eval: https://codemercs.com/de/starterkits/kw28eval<br>
 **Datasheets** for the KW28: https://codemercs.com/downloads/keywarrior/KW28_Datasheet.pdf<br>
 **Instructions** for KW28Eval: https://codemercs.com/downloads/keywarrior/KW28EVAL_Instructions.pdf<br>
 **Software** to program key tables of KW28Eval (for Windows): https://codemercs.com/downloads/keywarrior/KW28_Editor.zip<br>
