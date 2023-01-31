@@ -12,6 +12,7 @@ The dimensaions of the PCB are 103mm high by 76mm wide, thickness without the ke
 # Images of PCB
 ![KW28Eval PCB](kw28eval_pcb.jpg)
 ![KW28Eval measurement](kw28eval_measurments.jpg)
+![KW28Eval key mapping](kw28_eval_map.png)
 
 # Description of KeyWarrior28
 [KeyWarrior28](https://www.codemercs.com) is a keyboard controller supporting a 8x8 matrix (64 keys maximum). The key table with 3 layers is fully programmable via USB.<br>
